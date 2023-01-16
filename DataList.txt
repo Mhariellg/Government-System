@@ -1,0 +1,4 @@
+1,Sm Malls,Henry Sy,Sy@gmail.com,122000000,Mon Oct 18 20:01:36 PST 2027
+2,Bridge,Juan Dela Cruz,JDC@gmail.com,200000000,Sun Jun 20 20:02:27 PST 2027
+3,Buildings,Angel Bahaynon,BahaynonA@gmail.com,32000000,Mon Sep 11 20:08:39 PST 2023
+4,Hospital,Jade Taruc,Taruc@gmail.com,249900000,Sun Jul 16 20:09:10 PST 2023
