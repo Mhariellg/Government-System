@@ -408,6 +408,7 @@ public class RegistrationForm extends javax.swing.JFrame {
         
         //Read
         // can display data from the user
+        // if row selected this will display in jTextield 9 
         int rows = jTable.getSelectedRow();
         
         jTextField9.setText(model.getValueAt(rows, 0).toString());
